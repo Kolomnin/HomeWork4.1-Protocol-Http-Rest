@@ -1,0 +1,102 @@
+[
+  {
+    "name": "cheesecakes from the cake",
+    "cookingTime": [{ "count": 30, "unitOfMeasurement": "minutes" }],
+    "ingredientsOnTwoPortions": [
+      { "name": "cottage cheese", "weight": 350, "measureUnit": "g" },
+      { "name": "Chicken egg", "count": 2, "measureUnit": "tablespoons" },
+      { "name": "wheat flour", "count": 6, "measureUnit": "tablespoons" },
+      { "name": "sugar", "count": 2, "measureUnit": "tablespoons" }
+    ],
+    "steps": {
+      "1": "Mix all the cottage cheese with eggs, sugar and mix everything thoroughly",
+      "2": "Pour the flour into the cottage cheese and mix thoroughly",
+      "3": "Put the frying pan on medium heat and pour sunflower oil into it",
+      "4": "Make a few small balls of the resulting curd mass and put them on a plate. Then, in turn, roll the curd balls in flour and put them in a frying pan",
+      "5": "Fry the cheesecakes for 1-2 minutes until golden brown. Then turn them over to the other side and also fry until golden brown",
+      "6": "Repeat until the cottage cheese is finished"
+    }
+  },
+  {
+    "name": "Red Bean Salad with Cream Cheese, Red Onion and Seasonal Lettuce",
+    "cookingTime": [{ "count": 7, "unitOfMeasurement": "minutes" }],
+    "ingredients": [
+      { "name": "Spices to taste" },
+      { "name": "Canned beans", "count": 400, "measureUnit": "g" },
+      { "name": "Lemon", "count": 1, "measureUnit": "piece" },
+      { "name": "Garlic", "count": 2, "measureUnit": "cloves" },
+      { "name": "Olive oil", "count": 50, "measureUnit": "ml" },
+      { "name": "Rucola", "count": 100, "measureUnit": "g" },
+      { "name": "Curd cheese", "count": 200, "measureUnit": "g" },
+      { "name": "Red onion", "count": 50, "measureUnit": "g" }
+    ],
+    "steps": {
+      "1": "Open two cans of red beans in their own juice, drain the juice and rinse the beans with cold water",
+      "2": "Mix the finished beans with finely chopped red onion, herbs, crushed garlic, olive oil, lemon juice and curd cheese",
+      "3": "Salt, pepper, let the products rub against each other for two minutes and serve"
+    }
+  },
+  {
+    "name": "Lentil soup with mint",
+    "cookingTime": [{ "count": 30, "unitOfMeasurement": "minutes" }],
+    "ingredientsForFourServings": [
+      { "name": "Red lentils", "count": 150, "measureUnit": "g" },
+      { "name": "Onion", "count": 1, "measureUnit": "head" },
+      { "name": "Carrots", "count": 1, "measureUnit": "piece" },
+      { "name": "Sunflower oil", "count": 2, "measureUnit": "cloves" },
+      { "name": "Olive oil", "count": 30, "measureUnit": "ml" },
+      { "name": "Butter", "count": 15, "measureUnit": "g" },
+      { "name": "Wheat flour", "count": 30, "measureUnit": "g" },
+      { "name": "Cream 33%", "count": 50, "measureUnit": "ml" },
+      { "name": "Spices to taste" },
+      { "name": "Lemon", "count": 0.5, "measureUnit": "piece" },
+      { "name": "Mint to taste" }
+    ],
+    "steps": {
+      "1": "Pour a liter of water into a small saucepan and add the washed lentils. Put the saucepan on medium heat",
+      "2": "Grate a small carrot on a coarse grater, finely chop the onion. As soon as the lentils begin to boil, you need to reduce the heat, and then add another 200 ml of water or broth. Cook for another ten minutes",
+      "3": "Heat a wide flat frying pan, add sunflower and butter there. Fry onions and carrots",
+      "4": "Add the fried vegetables to the pan, pour in the cream. Blend the soup with a hand blender until it becomes a thick puree. Soup can be served"
+    }
+  },
+  {
+    "name": "Salad with shrimp and sesame",
+    "cookingTime": [{ "count": 20, "unitOfMeasurement": "minutes" }],
+    "ingredients": [
+      { "name": "Tomatoes", "count": 3, "measureUnit": "pieces" },
+      { "name": "King prawns", "count": 300, "measureUnit": "g" },
+      { "name": "Green salad", "count": 1, "measureUnit": "bunch" },
+      { "name": "Cucumbers", "count": 2, "measureUnit": "pieces" },
+      { "name": "Spices to taste" },
+      { "name": "mayonnaise to taste" },
+      { "name": "Sesame seeds", "count": 3, "measureUnit": "tablespoons" }
+    ],
+    "steps": {
+      "1": "Cut the vegetables coarsely, tear the salad into pieces",
+      "2": "Bring heavily salted water to a boil and add the shrimp. After boiling, cook for 5 minutes",
+      "3": "Clean the shrimp from the shell",
+      "4": "Mix vegetables and shrimp",
+      "5": "Sprinkle with sesame seeds and season with mayonnaise"
+    }
+  },
+  {
+    "name": "Cottage cheese donuts in powdered sugar",
+    "cookingTime": [{ "count": 40, "unitOfMeasurement": "minutes" }],
+    "ingredients": [
+      { "name": "Curd", "count": 250, "measureUnit": "g" },
+      { "name": "Chicken egg", "count": 3, "measureUnit": "pieces" },
+      { "name": "Wheat flour", "count": 8, "measureUnit": "tablespoons" },
+      { "name": "Sugar and salt to taste" },
+      { "name": "Olive oil to taste" },
+      { "name": "Soda", "count": 0.5, "measureUnit": "teaspoon" },
+      { "name": "Powdered sugar with vanilla to taste" }
+    ],
+    "steps": {
+      "1": "In a bowl, mix cottage cheese, eggs, flour, sugar, soda and salt until smooth",
+      "2": "Heat the olive oil well in a small saucepan",
+      "3": "Using a teaspoon or your hands, roll the dough into balls, each slightly smaller than a walnut",
+      "4": "Throw donuts into boiling oil and fry over low heat, constantly turning over with a slotted spoon",
+      "5": "Put the finished donuts on a paper towel and leave for one to two minutes - so that it absorbs excess oil"
+    }
+  }
+]
